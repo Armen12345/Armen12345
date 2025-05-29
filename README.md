@@ -2,6 +2,7 @@
 
 ## I am a programmer, and I work with:
 ![Assembly](https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=assembly)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +20,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 ## I work with tools:
+![Clang](https://img.shields.io/badge/clang-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
