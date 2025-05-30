@@ -26,4 +26,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## My projects:
-![SwiftWrite](https://img.shields.io/badge/SwiftWrite-%2300599C.svg?style=for-the-badge&logo=assembly) - simple open-source notepad. Current default branch is alpha, but if you want to see new features - go to beta branch, but beta branch is not tested yet, and can have bugs. For details: https://github.com/Armen12345/SwiftWrite
+![SwiftWrite](https://img.shields.io/badge/SwiftWrite-%2300599C.svg?style=for-the-badge&logo=assembly) - simple open-source notepad. For details: https://github.com/Armen12345/SwiftWrite
